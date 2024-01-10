@@ -151,7 +151,7 @@
     "request": "^2.81.0",
     "rethink-knex-adapter": "0.4.20",
     "rollbar": "^2.4.4",
-    "terser-webpack-plugin": "4",
+    "terser-webpack-plugin": "5.1.4",
     "thinky": "^2.3.3",
     "timezonecomplete": "^5.5.0",
     "twilio": "^3.40.0",
@@ -159,7 +159,7 @@
     "us-area-codes": "^1.0.0",
     "uuid": "^3.1.0",
     "wait-for-expect": "^1.1.1",
-    "webpack": "4",
+    "webpack": "5.1.1",
     "webpack-manifest-plugin": "^2.0.4",
     "yup": "0.32.3"
   },
